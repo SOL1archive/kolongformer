@@ -1,5 +1,5 @@
 # kolongformer
-Korean Longformer Model
+Korean [Longformer](https://arxiv.org/abs/2004.05150) Model
 
 Dataset: [대규모 웹데이터 기반 한국어 말뭉치 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=624)
 
